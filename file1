@@ -3,6 +3,10 @@ this is second line 
 
 
 this is third line
+<<<<<<< HEAD
 this is fourth line
 this is fifth line
 
+=======
+added some other lines
+>>>>>>> 22669a04be2ca3cf17d8eca1feea26139f480e00
